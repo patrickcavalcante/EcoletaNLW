@@ -26,7 +26,7 @@ O Projeto usa as tecnologias
 "nunjucks": "^3.2.2",
 "sqlite3": "^5.0.0"
 
-<img src="./public/assets/screen.png" title="hover text">
+<img src="./public/assets/screen1.png" title="hover text">
 
 <img src="./public/assets/screen2.png" title="hover text">
 
